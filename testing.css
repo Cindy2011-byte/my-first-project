@@ -1,0 +1,22 @@
+.red{
+	color: red;
+}
+
+.orange{
+	color: orange;
+}
+
+
+img{
+	float: right;
+	margin-left: 10px;
+}
+
+body{
+	text-align: center;
+}
+
+img{
+	width: 100px;
+	height: auto;
+}
